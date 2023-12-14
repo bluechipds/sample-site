@@ -1,0 +1,19 @@
+.hero {
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+.about {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+}
